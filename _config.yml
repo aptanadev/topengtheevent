@@ -1,5 +1,5 @@
 url: https://aptanadev.github.io
-baseurl: /topengeo
+baseurl: /topengtheevent/
 
 # Site settings
 title: Topeng the Event
@@ -9,7 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 social:
   - title: facebook
-    url: https://www.facebook.com/share/1EqDMc3jQZ/ 
+    url: https://www.facebook.com/share/1EqDMc3jQZ/
   - title: instagram
     url: https://www.instagram.com/topeng_eo?igsh=eHFieXgydm5vZmU0
   - title: youtube
